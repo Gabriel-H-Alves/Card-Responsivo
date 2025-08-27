@@ -82,3 +82,16 @@ body {
 .reserve-btn:hover {
   background: #ddd;
 }
+@media(max-width: 600px){
+  .card{width: 90%;
+  max-width: none;}
+  .card-title{
+    font-size: 1rem;
+
+  }
+  .card-description{
+    font-size: 0.8rem;
+  }
+
+  
+}
