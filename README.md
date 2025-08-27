@@ -19,11 +19,6 @@ Esse card pode ser facilmente adaptado para **portfólios, vitrines de produtos,
 
 ---
 
-## 📷 Demonstração
-> *(adicione aqui uma imagem ou GIF do card em funcionamento)*  
-
----
-
 ## 📂 Como utilizar
 1. Clone este repositório:
    ```bash
