@@ -80,7 +80,7 @@ body {
 }
 
 .reserve-btn:hover {
-  background: #ddd;
+  background: #a6a6a6;
 }
 @media(max-width: 600px){
   .card{width: 90%;
